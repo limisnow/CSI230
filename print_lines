@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# A script to print out lines
+
+echo "Line 1"
+echo "Line 2"
+echo "Line 3"
